@@ -1,7 +1,6 @@
-# mycode2 (Tracking my code for Python Basics course)
+# mycode2 (Python Basics course - 11.07.2022)
 
-One Paragraph of your project description goes here. Describe what you're trying to do.
-What is the purpose of putting up this repo?
+Tracking code versioning for labs on my Python Basics course.
 
 ## Getting Started
 
